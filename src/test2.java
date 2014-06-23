@@ -1,8 +1,4 @@
-/**
- * COPYRIGHT(c) MNLSOLUTION 2014
- * This software is the proprietary information of MNLSOLUTION.
- *
- */
+
 
 /**<pre>
  * 클래스 설명 (첫라인의 설명은 brief 설명)
