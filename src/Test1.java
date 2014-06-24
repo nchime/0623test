@@ -5,8 +5,29 @@ public class Test1 {
 
 		/// 브랜치를 따서 완벽한 수정을 진행함
 		/// 브랜치를 따서 완벽한 2차 수정을 진행함
-		/// 브랜치를 따서 3차 수정 실패.. 
+		/// 브랜치를 따서 3차 수정 실패..
 		
+		
+		Test2 test2 = new Test2();
+		
+		Test21 test21 = new Test21();
+		
+		
+		String strMsg = test21.strMEthod();  
+		
+				
+		test2.subMethod(); 
+		
+		testScript();  
+		
+		
+		
+	}
+
+	private static void testScript() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("test모듈 메소드입니다."); 
 		
 	}
 
