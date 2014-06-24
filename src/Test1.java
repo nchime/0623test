@@ -22,7 +22,6 @@ public class Test1 {
 		
 		testScript();  
 		
-		// 브랜치에서 4차 수정하고 서버로 push.. 
 		
 		
 	}
