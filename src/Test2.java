@@ -11,5 +11,14 @@ public class Test2 {
 
 	}
 
+	public void subMethod() {
+		// TODO Auto-generated method stub
+		
+		System.out.println("sub모듈입니다");
+		
+		
+		
+	}
+
 
 }
