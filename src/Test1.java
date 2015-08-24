@@ -3,13 +3,9 @@
  * 
  *  chimeBranch1을 하나 따서 테스트 진행/// 
  *  
- *  chime 곽챠화
+ *  chime 곽채화
  *  
- *   
- *  다시 수정
- *  
- * 이번엔 내가 무얼 수정했는지 모르고 쏩니다. 
- *  
+
  *  
  * 
  * @author : 곽채화 ( chkwak@mnlsolution.com ) 
