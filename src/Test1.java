@@ -6,6 +6,11 @@
  *  chime 곽챠화 
  *  
  *  
+ *  
+ *  서버 수정된거 모르고 수정. 
+ *  
+ *  
+ *  
  * 
  * @author : 곽채화 ( chkwak@mnlsolution.com ) 
  * @version : 1.0
